@@ -7,4 +7,4 @@ Randomized Algorithm project_03
 3.用传统倒排索引实现集族动态倒排索引（可以选择其他更有趣的应用）  
 4.在实验1给出的三个数据集上比较集合插入、删除、查找等操作在两种实现方式的性能  
 
-数据： AOL_out.txt、Delicious_out.txt、linux_distinct.txt
+数据： linux_distinct.txt
